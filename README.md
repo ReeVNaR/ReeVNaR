@@ -1,48 +1,33 @@
 # 👋 Hey, I'm Ranveer Ghorpade 🚀
 
-> **“Code is like humor. When you have to explain it, it’s bad.”** – Cory House
+Passionate software developer focused on building **impactful**, **scalable**, and **AI-driven** solutions. I love solving real-world problems with clean, efficient code and constantly leveling up my skills.
 
 ---
 
-### 🔥 Who Am I?
-I'm a **passionate software developer** on a mission to build **impactful, scalable**, and **intelligent systems**. What started as pure curiosity turned into a full-blown obsession with crafting solutions that make a difference. Whether it’s backend systems, AI-driven apps, or full-stack platforms—I’m always down to build cool stuff and push limits.  
+### 💻 Tech Stack  
+**Languages:** Python • C++ • JavaScript • TypeScript  
+**Stack:** React ⚛️ • Node.js 🚀 • MongoDB 🍃 • SQL  
+**Cloud & Data:** AWS ☁️ • Firebase 🔥 • Hadoop 🐘
 
 ---
 
-### 💻 Tech Arsenal
-**Languages:**  
-`Python` | `C++` | `JavaScript` | `TypeScript`
-
-**Frameworks & Tools:**  
-`React` ⚛️ | `Node.js` 🚀 | `MongoDB` 🍃 | `SQL` 🛢️
-
-**Cloud & Big Data:**  
-`AWS` ☁️ | `Firebase` 🔥 | `Hadoop` 🐘
+### 🔭 What I'm Up To  
+- Building full-stack & backend apps  
+- Developing smart AI-powered tools  
+- Exploring real-time systems & cloud infra  
 
 ---
 
-### 🔭 Currently:
-- 🔧 Crafting full-stack applications & powerful backend systems  
-- 🤖 Building AI-driven tools & chatbots  
-- ☁️ Exploring cloud infrastructure, real-time data, and distributed computing  
+### ⚡ Quick Bits  
+🚗 Car nerd • 🎮 Gamer • 🧠 Problem Solver  
 
 ---
 
-### ⚡ Fun Facts:
-- 🚗 I’m a car enthusiast who can talk torque and turbos all day  
-- 🎮 Hardcore gamer when I'm not coding  
-- 🧠 Addicted to solving challenging problems with clean, efficient code  
+### 📫 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranveer-ghorpade-gg/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ReeVNaR?tab=repositories)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ranveer._.15)
 
 ---
 
-### 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranveer-ghorpade-gg/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReeVNaR?tab=repositories)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ranveer._.15)
-
----
-
-### 🌟 Motto:  
-> **Learn. Build. Break. Repeat.**  
-Let’s innovate together & build something the world hasn't seen yet 🚀
+> **"Learn. Build. Break. Repeat."** — Let’s create something epic together!
