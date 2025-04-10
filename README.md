@@ -5,44 +5,28 @@
 
 ---
 
-### 💼 Tech Stack
+## 💼 Overview
 
-**Languages:**  
-`Python` · `C++` · `JavaScript` · `TypeScript`  
-
-**Frameworks & Databases:**  
-`React` · `Node.js` · `MongoDB` · `SQL`
-
-**Cloud & Big Data:**  
-`AWS` · `Firebase` · `Hadoop`
+| **💻 Tech Stack** | **🚀 Currently Working On** |
+|------------------|-----------------------------|
+| **Languages:** Python, C++, JavaScript, TypeScript  | ⚙️ Full-stack & backend development |
+| **Frameworks:** React, Node.js | 🤖 AI-driven projects & chatbots |
+| **Databases:** MongoDB, SQL | ☁️ Cloud infra & real-time systems |
+| **Cloud & Big Data:** AWS, Firebase, Hadoop | 🧪 Experimenting with microservices |
 
 ---
 
-### 🚀 What I'm Working On
+## 🧠 On the Side
 
-- ⚙️ Full-stack & backend development  
-- 🤖 Building AI-driven projects  
-- ☁️ Exploring cloud infra & real-time systems
-
----
-
-### 🌱 I’m Currently Exploring
-
-- Distributed computing  
-- Scalable backend architecture  
-- Cloud-native deployments  
+| **🌱 Exploring** | **⚡ Fun Facts** |
+|------------------|------------------|
+| Distributed systems & architecture | 🚗 Car enthusiast |
+| Scalable backend patterns | 🎮 Gamer & tech geek |
+| Cloud-native deployments | 🧩 Loves solving tough coding problems |
 
 ---
 
-### ⚡ Fun Facts
-
-- 🚗 Car enthusiast  
-- 🎮 Gamer & tech geek  
-- 🧠 Addicted to challenging problem-solving
-
----
-
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranveer-ghorpade-gg)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ReeVNaR?tab=repositories)  
@@ -51,4 +35,3 @@
 ---
 
 > 🧠 _"Driven by curiosity. Grounded in code. Focused on impact."_
-
