@@ -7,21 +7,55 @@
 
 <div align="center">
   <h2>💼 Tech Snapshot</h2>
-</div>
 
-| <div align="center">💻 <strong>Tech Stack</strong></div> | <div align="center">🚀 <strong>Currently Working On</strong></div> |
-|:--|:--|
-| **Languages:**<br>Python · C++ · JavaScript · TypeScript <br><br>**Frameworks:**<br>React · Node.js <br><br>**Databases:**<br>MongoDB · SQL <br><br>**Cloud / Data:**<br>AWS · Firebase · Hadoop | ⚙️ Full-stack & backend development <br><br>🤖 AI-based tools & chatbots <br><br>☁️ Cloud infrastructure & deployment <br><br>🧪 Real-time data systems |
+  <table>
+    <tr>
+      <th>💻 <strong>Tech Stack</strong></th>
+      <th>🚀 <strong>Currently Working On</strong></th>
+    </tr>
+    <tr>
+      <td>
+        <strong>Languages:</strong><br>Python · C++ · JavaScript · TypeScript <br><br>
+        <strong>Frameworks:</strong><br>React · Node.js <br><br>
+        <strong>Databases:</strong><br>MongoDB · SQL <br><br>
+        <strong>Cloud / Data:</strong><br>AWS · Firebase · Hadoop
+      </td>
+      <td>
+        ⚙️ Full-stack & backend development <br><br>
+        🤖 AI-based tools & chatbots <br><br>
+        ☁️ Cloud infrastructure & deployment <br><br>
+        🧪 Real-time data systems
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 <div align="center">
   <h2>🧠 Extras</h2>
-</div>
 
-| <div align="center">🌱 <strong>Exploring</strong></div> | <div align="center">⚡ <strong>Fun Facts</strong></div> |
-|:--|:--|
-| 🧩 Distributed systems & microservices <br><br>📡 Real-time architecture <br><br>🚀 Scalable backend patterns <br><br>☁️ Cloud-native deployments | 🚗 Huge car enthusiast <br><br>🎮 Gamer at heart <br><br>📚 Love cracking DSA problems <br><br>💭 Always building something cool |
+  <table>
+    <tr>
+      <th>🌱 <strong>Exploring</strong></th>
+      <th>⚡ <strong>Fun Facts</strong></th>
+    </tr>
+    <tr>
+      <td>
+        🧩 Distributed systems & microservices <br><br>
+        📡 Real-time architecture <br><br>
+        🚀 Scalable backend patterns <br><br>
+        ☁️ Cloud-native deployments
+      </td>
+      <td>
+        🚗 Huge car enthusiast <br><br>
+        🎮 Gamer at heart <br><br>
+        📚 Love cracking DSA problems <br><br>
+        💭 Always building something cool
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -41,4 +75,6 @@
 
 ---
 
-> <div align="center"><em>“Driven by curiosity. Grounded in code. Focused on impact.”</em></div>
+<div align="center">
+  <em>“Driven by curiosity. Grounded in code. Focused on impact.”</em>
+</div>
