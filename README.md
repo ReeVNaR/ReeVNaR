@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ranveer Ghorpade
+#  Hi, I'm Ranveer Ghorpade
 
 🚀 A passionate **Software Developer** focused on building **scalable full-stack apps**, **AI-powered tools**, and **robust backend systems**.  
 💡 I love solving real-world problems with clean, maintainable code and a performance-first mindset.
