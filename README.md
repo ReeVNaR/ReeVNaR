@@ -18,7 +18,7 @@
         <strong>Languages:</strong><br>Python · C++ · JavaScript<br><br>
         <strong>Frameworks:</strong><br>React · Node.js <br><br>
         <strong>Databases:</strong><br>MongoDB · SQL <br><br>
-        <strong>Cloud / Data:</strong><br>AWS · MongoDB
+        <strong>Cloud / Data:</strong><br>AWS
       </td>
       <td>
         ⚙️ Full-stack & backend development <br><br>
