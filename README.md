@@ -15,10 +15,10 @@
     </tr>
     <tr>
       <td>
-        <strong>Languages:</strong><br>Python · C++ · JavaScript · TypeScript <br><br>
+        <strong>Languages:</strong><br>Python · C++ · JavaScript<br><br>
         <strong>Frameworks:</strong><br>React · Node.js <br><br>
         <strong>Databases:</strong><br>MongoDB · SQL <br><br>
-        <strong>Cloud / Data:</strong><br>AWS · Firebase · Hadoop
+        <strong>Cloud / Data:</strong><br>AWS · MongoDB
       </td>
       <td>
         ⚙️ Full-stack & backend development <br><br>
